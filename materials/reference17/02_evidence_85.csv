@@ -1,0 +1,188 @@
+﻿id,疾病,criteria_id,背景面向,原始答案含註記,標準化答案,直接來源定位,適用範圍,證據層級,原作者建議查詢來源,移植臺灣時
+D01,炭疽病,C1,人類嚴重度,Yes,Yes,Table S4 disease row Anthrax; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D01,炭疽病,C2,食用動物死亡與生產衝擊,Yes,Yes,Table S4 disease row Anthrax; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D01,炭疽病,C3,防治可行性,AND,AND,Table S4 disease row Anthrax; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D01,炭疽病,C4,部門協作條件,OR (animal),OR,Table S4 disease row Anthrax; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D01,炭疽病,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Anthrax; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D02,牛結核病,C1,人類嚴重度,Yes,Yes,Table S4 disease row Bovine Tuberculosis; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D02,牛結核病,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Bovine Tuberculosis; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D02,牛結核病,C3,防治可行性,AND,AND,Table S4 disease row Bovine Tuberculosis; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D02,牛結核病,C4,部門協作條件,No,No,Table S4 disease row Bovine Tuberculosis; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D02,牛結核病,C5,生物恐怖相關清單,No,No,Table S4 disease row Bovine Tuberculosis; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D03,布氏桿菌病,C1,人類嚴重度,No,No,Table S4 disease row Brucellosis; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D03,布氏桿菌病,C2,食用動物死亡與生產衝擊,Yes,Yes,Table S4 disease row Brucellosis; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D03,布氏桿菌病,C3,防治可行性,AND,AND,Table S4 disease row Brucellosis; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D03,布氏桿菌病,C4,部門協作條件,AND,AND,Table S4 disease row Brucellosis; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D03,布氏桿菌病,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Brucellosis; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D04,囊蟲病,C1,人類嚴重度,Yes,Yes,Table S4 disease row Cysticercosis; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D04,囊蟲病,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Cysticercosis; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D04,囊蟲病,C3,防治可行性,OR (human),OR,Table S4 disease row Cysticercosis; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D04,囊蟲病,C4,部門協作條件,No,No,Table S4 disease row Cysticercosis; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D04,囊蟲病,C5,生物恐怖相關清單,No,No,Table S4 disease row Cysticercosis; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D05,腸道病原集合,C1,人類嚴重度,No,No,Table S4 disease row Enteric Pathogens; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D05,腸道病原集合,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Enteric Pathogens; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D05,腸道病原集合,C3,防治可行性,OR (humans),OR,Table S4 disease row Enteric Pathogens; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D05,腸道病原集合,C4,部門協作條件,OR (human),OR,Table S4 disease row Enteric Pathogens; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D05,腸道病原集合,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Enteric Pathogens; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D06,漢他病毒,C1,人類嚴重度,Yes,Yes,Table S4 disease row Hantavirus; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D06,漢他病毒,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Hantavirus; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D06,漢他病毒,C3,防治可行性,No,No,Table S4 disease row Hantavirus; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D06,漢他病毒,C4,部門協作條件,No,No,Table S4 disease row Hantavirus; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D06,漢他病毒,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Hantavirus; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D07,E 型肝炎病毒,C1,人類嚴重度,No,No,Table S4 disease row Hepatitis E virus; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D07,E 型肝炎病毒,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Hepatitis E virus; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D07,E 型肝炎病毒,C3,防治可行性,No,No,Table S4 disease row Hepatitis E virus; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D07,E 型肝炎病毒,C4,部門協作條件,OR (human),OR,Table S4 disease row Hepatitis E virus; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D07,E 型肝炎病毒,C5,生物恐怖相關清單,No,No,Table S4 disease row Hepatitis E virus; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D08,日本腦炎,C1,人類嚴重度,Yes,Yes,Table S4 disease row Japanese Encephalitis virus; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D08,日本腦炎,C2,食用動物死亡與生產衝擊,Yes,Yes,Table S4 disease row Japanese Encephalitis virus; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D08,日本腦炎,C3,防治可行性,AND,AND,Table S4 disease row Japanese Encephalitis virus; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D08,日本腦炎,C4,部門協作條件,AND,AND,Table S4 disease row Japanese Encephalitis virus; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D08,日本腦炎,C5,生物恐怖相關清單,No,No,Table S4 disease row Japanese Encephalitis virus; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D09,鉤端螺旋體病,C1,人類嚴重度,Yes,Yes,Table S4 disease row Leptospirosis; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D09,鉤端螺旋體病,C2,食用動物死亡與生產衝擊,Yes,Yes,Table S4 disease row Leptospirosis; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D09,鉤端螺旋體病,C3,防治可行性,AND,AND,Table S4 disease row Leptospirosis; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D09,鉤端螺旋體病,C4,部門協作條件,AND,AND,Table S4 disease row Leptospirosis; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D09,鉤端螺旋體病,C5,生物恐怖相關清單,No,No,Table S4 disease row Leptospirosis; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D10,萊姆病,C1,人類嚴重度,Yes,Yes,Table S4 disease row Lyme disease; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D10,萊姆病,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Lyme disease; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D10,萊姆病,C3,防治可行性,OR1 (humans),OR,Table S4 disease row Lyme disease; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D10,萊姆病,C4,部門協作條件,No,No,Table S4 disease row Lyme disease; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D10,萊姆病,C5,生物恐怖相關清單,No,No,Table S4 disease row Lyme disease; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D11,類鼻疽,C1,人類嚴重度,Yes,Yes,Table S4 disease row Melioidosis; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D11,類鼻疽,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Melioidosis; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D11,類鼻疽,C3,防治可行性,OR (humans),OR,Table S4 disease row Melioidosis; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D11,類鼻疽,C4,部門協作條件,No,No,Table S4 disease row Melioidosis; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D11,類鼻疽,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Melioidosis; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D12,立百病毒,C1,人類嚴重度,Yes,Yes,Table S4 disease row Nipah virus; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D12,立百病毒,C2,食用動物死亡與生產衝擊,Yes,Yes,Table S4 disease row Nipah virus; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D12,立百病毒,C3,防治可行性,No,No,Table S4 disease row Nipah virus; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D12,立百病毒,C4,部門協作條件,No,No,Table S4 disease row Nipah virus; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D12,立百病毒,C5,生物恐怖相關清單,No,No,Table S4 disease row Nipah virus; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D13,鼠疫,C1,人類嚴重度,Yes,Yes,Table S4 disease row Plague; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D13,鼠疫,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Plague; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D13,鼠疫,C3,防治可行性,OR (humans),OR,Table S4 disease row Plague; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D13,鼠疫,C4,部門協作條件,AND,AND,Table S4 disease row Plague; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D13,鼠疫,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Plague; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D14,Q 熱,C1,人類嚴重度,No,No,Table S4 disease row Q Fever; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D14,Q 熱,C2,食用動物死亡與生產衝擊,Yes,Yes,Table S4 disease row Q Fever; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D14,Q 熱,C3,防治可行性,AND2,AND,Table S4 disease row Q Fever; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D14,Q 熱,C4,部門協作條件,No,No,Table S4 disease row Q Fever; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D14,Q 熱,C5,生物恐怖相關清單,Yes,Yes,Table S4 disease row Q Fever; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D15,狂犬病,C1,人類嚴重度,Yes,Yes,Table S4 disease row Rabies; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D15,狂犬病,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Rabies; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D15,狂犬病,C3,防治可行性,AND,AND,Table S4 disease row Rabies; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D15,狂犬病,C4,部門協作條件,AND,AND,Table S4 disease row Rabies; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D15,狂犬病,C5,生物恐怖相關清單,No,No,Table S4 disease row Rabies; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D16,蜱傳腦炎病毒,C1,人類嚴重度,Yes,Yes,Table S4 disease row Tick-borne encephalitis virus; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D16,蜱傳腦炎病毒,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row Tick-borne encephalitis virus; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D16,蜱傳腦炎病毒,C3,防治可行性,No,No,Table S4 disease row Tick-borne encephalitis virus; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D16,蜱傳腦炎病毒,C4,部門協作條件,No,No,Table S4 disease row Tick-borne encephalitis virus; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D16,蜱傳腦炎病毒,C5,生物恐怖相關清單,No,No,Table S4 disease row Tick-borne encephalitis virus; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
+D17,西尼羅病毒,C1,人類嚴重度,Yes,Yes,Table S4 disease row West Nile virus; Table S2 Human Morbidity/Mortality,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO",臺灣當期資料須另查，不用本欄代填
+D17,西尼羅病毒,C2,食用動物死亡與生產衝擊,No,No,Table S4 disease row West Nile virus; Table S2 Food Security,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- FAO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D17,西尼羅病毒,C3,防治可行性,OR (animal),OR,Table S4 disease row West Nile virus; Table S2 Ability to Prevent/Control,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,"- CDC 
+- WHO 
+- OIE
+- Center for Food Security and Public Health- Iowa State",臺灣當期資料須另查，不用本欄代填
+D17,西尼羅病毒,C4,部門協作條件,OR (animal),OR,Table S4 disease row West Nile virus; Table S2 Amenability to Collaborate,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- Inquiry to ‘Country X’,臺灣當期資料須另查，不用本欄代填
+D17,西尼羅病毒,C5,生物恐怖相關清單,No,No,Table S4 disease row West Nile virus; Table S2 Bioterrorism,2014 文獻試行,原研究公布的判答；不是原始流行病學數據,- CDC,臺灣當期資料須另查，不用本欄代填
